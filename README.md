@@ -36,7 +36,7 @@ Set up a development environment on any infrastructure, with a single command.
     ·
     <a href="https://github.com/daytonaio/daytona/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%F0%9F%9A%80+Feature%3A+">Request Feature</a>
     ·
-  <a href="https://go.daytona.io/slack">Join Our Slack</a>
+  <a href="https://go.daytona.io/slack">Join Our Slack.</a>
     ·
     <a href="https://twitter.com/daytonaio">Twitter</a>
   </p>
