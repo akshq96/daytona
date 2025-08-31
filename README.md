@@ -208,10 +208,9 @@ This command opens your development environment in your preferred IDE, allowing 
 daytona server stop
 ```
 
-### Restarting the Daytona Server:
-```bash
-daytona server restart
-```
+
+
+
 
 ## How to Extend Daytona
 
